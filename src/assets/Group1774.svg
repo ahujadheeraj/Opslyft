@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1706" height="903.468" viewBox="0 0 1706 903.468">
+  <defs>
+    <filter id="Rectangle_64" x="0" y="384" width="395" height="452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_64-2" x="874" y="384" width="395" height="452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_64-3" x="437" y="384" width="395" height="452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_64-4" x="1311" y="384" width="395" height="452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1774" data-name="Group 1774" transform="translate(-107 -2053)">
+    <text id="OUR_PROCESS" data-name="OUR PROCESS" transform="translate(796 2053)" fill="#19356f" font-size="45" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="0" y="45">OUR PROCESS</tspan></text>
+    <text id="We_follow_a_definitive_but_flexible_approach_towards_solving_and_addressing_the_needs_of_an_organization" data-name="We follow a definitive but flexible approach towards solving and addressing the needs of an organization" transform="translate(439 2163)" fill="#8a8a8a" font-size="30" font-family="CeraPro-Medium, Cera Pro" font-weight="500"><tspan x="67.3" y="30">We follow a definitive but flexible approach towards solving and </tspan><tspan x="239.845" y="70">addressing the needs of an organization</tspan></text>
+    <g id="Group_1764" data-name="Group 1764" transform="translate(35 -20)">
+      <path id="Path_2249" data-name="Path 2249" stroke="#94b3f8" d="M5722.787,2798v35.073s-2.651,6.611,10.769,6.389c12.145-.2,313.468-.038,370.8-.005,5.813,0,9.122.005,9.122-5.409V2798" fill="none" transform="translate(-5406 135)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke-dasharray="5"/>
+      <path id="Path_2250" data-name="Path 2250" stroke="#94b3f8" d="M5722.787,2798v35.073s-2.651,6.611,10.769,6.389c12.145-.2,313.468-.038,370.8-.005,5.813,0,9.122.005,9.122-5.409V2798" fill="none" transform="translate(-4516 135)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke-dasharray="5"/>
+      <path id="Path_2251" data-name="Path 2251" stroke="#94b3f8" d="M5722.787,2841.437V2804.7s-2.651-6.925,10.769-6.692c12.145.211,313.468.04,370.8.006,5.813,0,9.122-.006,9.122,5.666v37.759" fill="none" transform="translate(-4976 -414.706)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke-dasharray="5"/>
+      <g id="Group_1752" data-name="Group 1752">
+        <g transform="matrix(1, 0, 0, 1, 72, 2073)" filter="url(#Rectangle_64)">
+          <rect id="Rectangle_64-5" data-name="Rectangle 64" width="377" height="434" rx="20" transform="translate(9 390)" fill="#fff"/>
+        </g>
+        <g id="server" transform="translate(222.993 2543.01)">
+          <g id="serv_1" transform="translate(2.007 29.339)">
+            <path id="Rounded_Rectangle_541" data-name="Rounded Rectangle 541" d="M546.389,4197.14h76.347a6.413,6.413,0,0,1,6.413,6.413v6.875a6.413,6.413,0,0,1-6.413,6.413H546.389a6.413,6.413,0,0,1-6.413-6.413v-6.875A6.413,6.413,0,0,1,546.389,4197.14Z" transform="translate(-539.976 -4197.14)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542" data-name="Rounded Rectangle 542" d="M555.2,4205.24a1.545,1.545,0,0,1,1.544,1.545v6.221a1.544,1.544,0,0,1-3.089,0v-6.221a1.546,1.546,0,0,1,1.544-1.546Z" transform="translate(-544.881 -4200.045)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy" data-name="Rounded Rectangle 542 copy" d="M564.828,4205.24a1.545,1.545,0,0,1,1.544,1.545v6.221a1.544,1.544,0,0,1-3.089,0v-6.221a1.546,1.546,0,0,1,1.544-1.546Z" transform="translate(-548.336 -4200.045)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_2" data-name="Rounded Rectangle 542 copy 2" d="M574.47,4205.24a1.551,1.551,0,0,1,1.554,1.552V4213a1.554,1.554,0,0,1-3.109,0v-6.208a1.552,1.552,0,0,1,1.555-1.552Z" transform="translate(-551.791 -4200.045)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_3" data-name="Rounded Rectangle 542 copy 3" d="M584.123,4205.24a1.545,1.545,0,0,1,1.545,1.545v6.221a1.545,1.545,0,1,1-3.09,0v-6.221a1.546,1.546,0,0,1,1.544-1.546Z" transform="translate(-555.257 -4200.045)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_4" data-name="Rounded Rectangle 542 copy 4" d="M643.162,4205.24H658.4a1.924,1.924,0,0,1,1.924,1.924v5.464a1.924,1.924,0,0,1-1.924,1.924H643.164a1.924,1.924,0,0,1-1.924-1.924v-5.464A1.924,1.924,0,0,1,643.162,4205.24Z" transform="translate(-576.298 -4200.045)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          </g>
+          <g id="serv_1_copy" data-name="serv_1 copy" transform="translate(2.007 55.825)">
+            <path id="Rounded_Rectangle_541-2" data-name="Rounded Rectangle 541" d="M546.389,4234.32h76.347a6.413,6.413,0,0,1,6.413,6.413v6.856a6.413,6.413,0,0,1-6.413,6.413H546.389a6.413,6.413,0,0,1-6.413-6.413v-6.856A6.413,6.413,0,0,1,546.389,4234.32Z" transform="translate(-539.976 -4234.32)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542-2" data-name="Rounded Rectangle 542" d="M555.2,4242.39a1.546,1.546,0,0,1,1.544,1.545v6.247a1.544,1.544,0,1,1-3.089,0v-6.247a1.546,1.546,0,0,1,1.544-1.545Z" transform="translate(-544.881 -4237.214)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy-2" data-name="Rounded Rectangle 542 copy" d="M564.828,4242.39a1.546,1.546,0,0,1,1.544,1.545v6.247a1.544,1.544,0,1,1-3.089,0v-6.247A1.546,1.546,0,0,1,564.828,4242.39Z" transform="translate(-548.336 -4237.214)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_2-2" data-name="Rounded Rectangle 542 copy 2" d="M574.47,4242.39a1.552,1.552,0,0,1,1.554,1.552v6.227a1.554,1.554,0,1,1-3.109,0v-6.227a1.553,1.553,0,0,1,1.555-1.552Z" transform="translate(-551.791 -4237.214)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_3-2" data-name="Rounded Rectangle 542 copy 3" d="M584.123,4242.39a1.546,1.546,0,0,1,1.545,1.545v6.247a1.545,1.545,0,1,1-3.09,0v-6.247A1.546,1.546,0,0,1,584.123,4242.39Z" transform="translate(-555.257 -4237.214)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_4-2" data-name="Rounded Rectangle 542 copy 4" d="M643.162,4242.39H658.4a1.925,1.925,0,0,1,1.924,1.924v5.483a1.924,1.924,0,0,1-1.924,1.924H643.164a1.924,1.924,0,0,1-1.924-1.924v-5.483a1.924,1.924,0,0,1,1.922-1.923Z" transform="translate(-576.298 -4237.214)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          </g>
+          <g id="serv_1_copy_2" data-name="serv_1 copy 2" transform="translate(2.007 1.99)">
+            <path id="Rounded_Rectangle_541-3" data-name="Rounded Rectangle 541" d="M546.389,4159.99h76.347a6.413,6.413,0,0,1,6.413,6.413v6.855a6.413,6.413,0,0,1-6.413,6.413H546.389a6.413,6.413,0,0,1-6.413-6.413V4166.4A6.413,6.413,0,0,1,546.389,4159.99Z" transform="translate(-539.976 -4159.99)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542-3" data-name="Rounded Rectangle 542" d="M555.2,4168.06a1.54,1.54,0,0,1,1.544,1.54v6.246a1.544,1.544,0,1,1-3.089,0V4169.6a1.54,1.54,0,0,1,1.544-1.54Z" transform="translate(-544.881 -4162.885)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy-3" data-name="Rounded Rectangle 542 copy" d="M564.828,4168.06a1.54,1.54,0,0,1,1.544,1.54v6.246a1.544,1.544,0,1,1-3.089,0V4169.6a1.54,1.54,0,0,1,1.544-1.54Z" transform="translate(-548.336 -4162.885)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_2-3" data-name="Rounded Rectangle 542 copy 2" d="M574.47,4168.06a1.551,1.551,0,0,1,1.554,1.551v6.228a1.554,1.554,0,1,1-3.109,0v-6.227a1.552,1.552,0,0,1,1.555-1.552Z" transform="translate(-551.791 -4162.885)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_3-3" data-name="Rounded Rectangle 542 copy 3" d="M584.123,4168.06a1.539,1.539,0,0,1,1.545,1.54v6.246a1.545,1.545,0,1,1-3.09,0V4169.6a1.54,1.54,0,0,1,1.544-1.54Z" transform="translate(-555.257 -4162.885)" fill="#0479ec" fill-rule="evenodd"/>
+            <path id="Rounded_Rectangle_542_copy_4-3" data-name="Rounded Rectangle 542 copy 4" d="M643.162,4168.06H658.4a1.924,1.924,0,0,1,1.924,1.924v5.483a1.924,1.924,0,0,1-1.924,1.924H643.164a1.923,1.923,0,0,1-1.924-1.923v-5.483A1.924,1.924,0,0,1,643.162,4168.06Z" transform="translate(-576.298 -4162.885)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          </g>
+        </g>
+        <text id="We_start_by_evaluating_organization_s_needs_and_challenges" data-name="We start by evaluating organization&apos;s needs and challenges" transform="translate(120 2749)" fill="#8a8a8a" font-size="20" font-family="CeraPro-Regular, Cera Pro"><tspan x="45.56" y="20">We start by evaluating </tspan><tspan x="34.92" y="50">organization&apos;s needs and </tspan><tspan x="100.64" y="80">challenges</tspan></text>
+        <text id="Evaluation" transform="translate(199 2659)" fill="#4981fb" font-size="25" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="9.763" y="25">Evaluation</tspan></text>
+      </g>
+      <g id="Group_1755" data-name="Group 1755" transform="translate(874)">
+        <g transform="matrix(1, 0, 0, 1, -802, 2073)" filter="url(#Rectangle_64-2)">
+          <rect id="Rectangle_64-6" data-name="Rectangle 64" width="377" height="434" rx="20" transform="translate(883 390)" fill="#fff"/>
+        </g>
+        <text id="Achieving_a_scalable_sustainable_goal_through_translating_the_design_vision" data-name="Achieving a scalable &amp; sustainable goal through translating the design vision" transform="translate(120 2749)" fill="#8a8a8a" font-size="20" font-family="CeraPro-Regular, Cera Pro"><tspan x="47.02" y="20">Achieving a scalable &amp; </tspan><tspan x="35.81" y="50">sustainable goal through </tspan><tspan x="20.2" y="80">translating the design vision</tspan></text>
+        <text id="Implement" transform="translate(199 2659)" fill="#4981fb" font-size="25" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="7.225" y="25">Implement</tspan></text>
+        <g id="IMPLEMENT-2" data-name="IMPLEMENT" transform="translate(196 2552.011)">
+          <path id="Path_2253" data-name="Path 2253" d="M1645,4211.174V4177h43.375" transform="translate(-1623.284 -4169.108)" fill="none" stroke="#4981fb" stroke-width="4" fill-rule="evenodd" opacity="0.2"/>
+          <path id="Shape_563_copy" data-name="Shape 563 copy" d="M1777.375,4211.174V4177H1734" transform="translate(-1653.794 -4169.108)" fill="none" stroke="#4981fb" stroke-width="4" fill-rule="evenodd" opacity="0.2"/>
+          <path id="Rounded_Rectangle_555" data-name="Rounded Rectangle 555" d="M1693.851,4168.02h35.383a5.237,5.237,0,0,1,5.231,5.238v.131a5.232,5.232,0,0,1-5.23,5.231h-35.385a5.232,5.232,0,0,1-5.231-5.231v-.131a5.238,5.238,0,0,1,5.232-5.239Z" transform="translate(-1638.238 -4166.03)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_558" data-name="Rounded Rectangle 558" d="M1700.314,4174h2.629a1.314,1.314,0,0,1,0,2.629h-2.629a1.314,1.314,0,0,1,0-2.629Z" transform="translate(-1641.796 -4168.08)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_561" data-name="Rounded Rectangle 561" d="M1621.572,4215h28.917a6.572,6.572,0,0,1,6.572,6.572v13.8a6.572,6.572,0,0,1-6.572,6.572h-28.917a6.572,6.572,0,0,1-6.572-6.572v-13.8A6.572,6.572,0,0,1,1621.572,4215Z" transform="translate(-1613 -4182.135)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_561_copy" data-name="Rounded Rectangle 561 copy" d="M1775.572,4215h28.916a6.572,6.572,0,0,1,6.572,6.572v13.8a6.572,6.572,0,0,1-6.572,6.572h-28.916a6.572,6.572,0,0,1-6.572-6.572v-13.8a6.572,6.572,0,0,1,6.572-6.572Z" transform="translate(-1665.793 -4182.135)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="Group_1753" data-name="Group 1753" transform="translate(437)">
+        <g transform="matrix(1, 0, 0, 1, -365, 2073)" filter="url(#Rectangle_64-3)">
+          <rect id="Rectangle_64-7" data-name="Rectangle 64" width="377" height="434" rx="20" transform="translate(446 390)" fill="#fff"/>
+        </g>
+        <text id="We_assess_all_the_aspects_of_your_organization_and_find_the_right_design_model." data-name="We assess all the aspects of your organization and find the right design model." transform="translate(120 2749)" fill="#8a8a8a" font-size="20" font-family="CeraPro-Regular, Cera Pro"><tspan x="20.87" y="20">We assess all the aspects of </tspan><tspan x="10.99" y="50">your organization and find the </tspan><tspan x="59.29" y="80">right design model.</tspan></text>
+        <text id="Design" transform="translate(223 2659)" fill="#4981fb" font-size="25" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="6.513" y="25">Design</tspan></text>
+        <g id="DESIGN-2" data-name="DESIGN" transform="translate(210 2536.98)">
+          <circle id="Ellipse_69" data-name="Ellipse 69" cx="18.015" cy="18.015" r="18.015" transform="translate(38.53 2.02)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4"/>
+          <path id="Path_2252" data-name="Path 2252" d="M1131.29,4231.42l23.75-30.3" transform="translate(-1112.41 -4169.62)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Shape_562_copy" data-name="Shape 562 copy" d="M1204.98,4231.42l-23.74-30.3" transform="translate(-1112.41 -4169.62)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4" fill-rule="evenodd"/>
+          <circle id="Ellipse_559_copy" data-name="Ellipse 559 copy" cx="12.59" cy="12.59" r="12.59" transform="translate(2 56.79)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4"/>
+          <circle id="Ellipse_559_copy_2" data-name="Ellipse 559 copy 2" cx="12.59" cy="12.59" r="12.59" transform="translate(86 56.79)" fill="#f2f8fb" stroke="#4981fb" stroke-width="4"/>
+          <circle id="Ellipse_70" data-name="Ellipse 70" cx="5" cy="5" r="5" transform="translate(51.59 15.38)" fill="#0479ec" stroke="#4981fb" stroke-width="4"/>
+        </g>
+      </g>
+      <g id="Group_1754" data-name="Group 1754" transform="translate(1311)">
+        <g transform="matrix(1, 0, 0, 1, -1239, 2073)" filter="url(#Rectangle_64-4)">
+          <rect id="Rectangle_64-8" data-name="Rectangle 64" width="377" height="434" rx="20" transform="translate(1320 390)" fill="#fff"/>
+        </g>
+        <text id="We_help_your_organization_foster_the_adoption_and_implementation" data-name="We help your organization foster the adoption and implementation" transform="translate(120 2749)" fill="#8a8a8a" font-size="20" font-family="CeraPro-Regular, Cera Pro"><tspan x="27.94" y="20">We help your organization </tspan><tspan x="40.4" y="50">foster the adoption and </tspan><tspan x="77.08" y="80">implementation</tspan></text>
+        <text id="Manage" transform="translate(223 2659)" fill="#4981fb" font-size="25" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="0.65" y="25">Manage</tspan></text>
+        <g id="MANAGE-2" data-name="MANAGE" transform="translate(214.01 2537.99)">
+          <path id="Rounded_Rectangle_555-2" data-name="Rounded Rectangle 555" d="M2273.583,4155.89h21.29a7.423,7.423,0,0,1,7.423,7.423v68.457a7.423,7.423,0,0,1-7.423,7.423h-21.29a7.423,7.423,0,0,1-7.423-7.423v-68.457A7.423,7.423,0,0,1,2273.583,4155.89Z" transform="translate(-2232.035 -4153.88)" fill="#f2f8fb" stroke="#0479ec" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556" data-name="Rounded Rectangle 556" d="M2276.575,4171.92h20.132a1.05,1.05,0,1,1,0,2.1h-20.132a1.051,1.051,0,0,1,0-2.1Z" transform="translate(-2234.448 -4158.01)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy" data-name="Rounded Rectangle 556 copy" d="M2276.575,4180.41h20.132a1.05,1.05,0,1,1,0,2.1h-20.132a1.051,1.051,0,0,1,0-2.1Z" transform="translate(-2234.448 -4160.198)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_2" data-name="Rounded Rectangle 556 copy 2" d="M2276.575,4188.89h20.132a1.05,1.05,0,1,1,0,2.1h-20.132a1.05,1.05,0,0,1,0-2.1Z" transform="translate(-2234.448 -4162.383)" fill="#0479ec" fill-rule="evenodd"/>
+          <circle id="Ellipse_71" data-name="Ellipse 71" cx="5.567" cy="5.567" r="5.567" transform="translate(47.323 61.544)" fill="#0479ec"/>
+          <path id="Rounded_Rectangle_555_copy_3" data-name="Rounded Rectangle 555 copy 3" d="M2230.293,4169.8h16.769a7.423,7.423,0,0,1,7.423,7.423v57.611a7.423,7.423,0,0,1-7.423,7.423h-16.769a7.423,7.423,0,0,1-7.423-7.423v-57.611A7.423,7.423,0,0,1,2230.293,4169.8Z" transform="translate(-2220.88 -4157.464)" fill="#f2f8fb" stroke="#0479ec" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_3" data-name="Rounded Rectangle 556 copy 3" d="M2231.976,4183.74h17.637a.906.906,0,1,1,0,1.811h-17.637a.906.906,0,0,1,0-1.812Z" transform="translate(-2222.993 -4161.056)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_3-2" data-name="Rounded Rectangle 556 copy 3" d="M2231.98,4191.1H2249.6a.921.921,0,1,1,0,1.841H2231.98a.92.92,0,0,1,0-1.841Z" transform="translate(-2222.99 -4162.953)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_3-3" data-name="Rounded Rectangle 556 copy 3" d="M2231.974,4198.5h17.638a.909.909,0,0,1,0,1.819h-17.638a.909.909,0,0,1,0-1.819Z" transform="translate(-2222.991 -4164.86)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_555_copy_4" data-name="Rounded Rectangle 555 copy 4" d="M2321.963,4169.8h16.769a7.423,7.423,0,0,1,7.423,7.423v57.611a7.423,7.423,0,0,1-7.423,7.423h-16.769a7.423,7.423,0,0,1-7.423-7.423v-57.611A7.423,7.423,0,0,1,2321.963,4169.8Z" transform="translate(-2244.502 -4157.464)" fill="#f2f8fb" stroke="#0479ec" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_4" data-name="Rounded Rectangle 556 copy 4" d="M2323.635,4183.74h17.637a.906.906,0,1,1,0,1.811h-17.637a.906.906,0,0,1,0-1.812Z" transform="translate(-2246.612 -4161.056)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_4-2" data-name="Rounded Rectangle 556 copy 4" d="M2323.65,4191.1h17.615a.921.921,0,1,1,0,1.841H2323.65a.92.92,0,0,1,0-1.841Z" transform="translate(-2246.612 -4162.953)" fill="#0479ec" fill-rule="evenodd"/>
+          <path id="Rounded_Rectangle_556_copy_4-3" data-name="Rounded Rectangle 556 copy 4" d="M2323.634,4198.5h17.637a.909.909,0,1,1,0,1.819h-17.637a.909.909,0,1,1,0-1.819Z" transform="translate(-2246.611 -4164.86)" fill="#0479ec" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

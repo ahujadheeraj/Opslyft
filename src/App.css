@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  overflow-x: hidden;
 }
 
 .App-logo {
@@ -23,11 +24,26 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+.Head img{
+  box-sizing: border-box;
+  width: 100%;
+  z-index: 0;
+  position: relative;
+  transform: scale(1.02);
+}
+.Laptop img{
+  width: 40%;
+  z-index: 1;
+  position: absolute;
+  top:80px;
+  right: 68px;
+}
+
+.Leftline{
+  width: 11.97%;
+  position: absolute;
+  top:193px;
+
 }

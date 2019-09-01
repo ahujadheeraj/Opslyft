@@ -1,0 +1,32 @@
+.client {
+    box-sizing: border-box;
+    margin:0;
+    display: flex;
+    transform: translate(-220px) scale(0.7);
+    margin-top:180px;
+    padding-left: 0;
+    justify-content: space-between;
+}
+
+.client div{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    background-size: cover;
+}
+
+.client img {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.client div:nth-of-type(1){
+    padding-right:150px; 
+}
+
+.client div:nth-of-type(3){
+    padding-left:100px;
+    transform: translateY(-90px) scale(0.9);
+
+}
