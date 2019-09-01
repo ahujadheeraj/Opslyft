@@ -1,0 +1,122 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1790" height="1645" viewBox="0 0 1790 1645">
+  <defs>
+    <filter id="Rectangle_66" x="81" y="990" width="786" height="655" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_73" x="922" y="990" width="789" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_86" x="101" y="295" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_87" x="101" y="485" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_88" x="655" y="370" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_90" x="1205" y="290" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_89" x="655" y="560" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_91" x="1205" y="480" width="535" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_66)">
+    <rect id="Rectangle_66-2" data-name="Rectangle 66" width="750" height="619" transform="translate(99 1005)" fill="#fff"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_73)">
+    <rect id="Rectangle_73-2" data-name="Rectangle 73" width="753" height="608" transform="translate(940 1005)" fill="#100e47"/>
+  </g>
+  <text id="GIVE_US_A_TRY_TO_OPTIMIZE_yOUR_CLOUD." data-name="GIVE US A TRY TO OPTIMIZE yOUR CLOUD." transform="translate(208 1084)" fill="#100e47" font-size="55" font-family="CeraPro-Bold, Cera Pro" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="55">GIVE US A TRY TO </tspan><tspan x="0" y="124">OPTIMIZE YOUR </tspan><tspan x="0" y="193">CLOUD.</tspan></text>
+  <text id="wanna_sEE_OPSYFT_IN_ACTION_" data-name="wanna sEE OPSYFT IN ACTION?" transform="translate(1038 1114)" fill="#fff" font-size="55" font-family="CeraPro-Bold, Cera Pro" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="55">WANNA SEE OPSYFT </tspan><tspan x="0" y="124">IN ACTION?</tspan></text>
+  <text id="Learn_how_Opslyft_can_help_you_optimize_and_automate_your_cloud." data-name="Learn how Opslyft can help you optimize and automate your cloud." transform="translate(1038 1323)" fill="#fff" font-size="25" font-family="CeraPro-Medium, Cera Pro" font-weight="500" letter-spacing="0.05em"><tspan x="0" y="25">Learn how Opslyft can help you optimize </tspan><tspan x="0" y="56">and automate your cloud.</tspan></text>
+  <g id="Group_1766" data-name="Group 1766" transform="translate(-1085 -222)">
+    <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(1268 1691)" fill="#19356f" stroke="#19356f" stroke-width="1">
+      <rect width="454" height="80" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="453" height="79" rx="39.5" fill="none"/>
+    </g>
+    <text id="Schedule_a_callback" data-name="Schedule a callback" transform="translate(1349 1710)" fill="#fff" font-size="30" font-family="CeraPro-Medium, Cera Pro" font-weight="500"><tspan x="0" y="30">Schedule a callback</tspan></text>
+  </g>
+  <g id="Group_1767" data-name="Group 1767" transform="translate(-245 -232)">
+    <g id="Rectangle_53-2" data-name="Rectangle 53" transform="translate(1268 1691)" fill="#100e47" stroke="#fff" stroke-width="1">
+      <rect width="455" height="80" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="454" height="79" rx="39.5" fill="none"/>
+    </g>
+    <text id="REQUEST_AN_INVITE" data-name="REQUEST AN INVITE" transform="translate(1349 1710)" fill="#fff" font-size="30" font-family="CeraPro-Medium, Cera Pro" font-weight="500"><tspan x="0" y="30">REQUEST AN INVITE</tspan></text>
+  </g>
+  <path id="Path_2256" data-name="Path 2256" d="M5480.278,5153v229.417h64.808" transform="translate(-5445.228 -4266)" fill="none" stroke="#4981fb" stroke-width="3" stroke-dasharray="5"/>
+  <path id="Path_2257" data-name="Path 2257" d="M5550.281,5153v229.417h-70" transform="translate(-3790 -4266)" fill="none" stroke="#4981fb" stroke-width="3" stroke-dasharray="5"/>
+  <g id="Group_1790" data-name="Group 1790" transform="translate(-64 -7576)">
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="1790" height="928" rx="20" transform="translate(64 7576)" fill="#f6f9ff"/>
+    <text id="Create_a_data_culture_where_everyone_wins..." data-name="Create a data culture where everyone wins..." transform="translate(195 7665)" fill="#19356f" font-size="45" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="0" y="45">Create a data culture where </tspan><tspan x="0" y="105">everyone wins...</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_86)">
+      <rect id="Rectangle_86-2" data-name="Rectangle 86" width="475" height="150" rx="10" transform="translate(131 322)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_87)">
+      <rect id="Rectangle_87-2" data-name="Rectangle 87" width="475" height="150" rx="10" transform="translate(131 512)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_88)">
+      <rect id="Rectangle_88-2" data-name="Rectangle 88" width="475" height="150" rx="10" transform="translate(685 397)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_90)">
+      <rect id="Rectangle_90-2" data-name="Rectangle 90" width="475" height="150" rx="10" transform="translate(1235 317)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_89)">
+      <rect id="Rectangle_89-2" data-name="Rectangle 89" width="475" height="150" rx="10" transform="translate(685 587)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 7576)" filter="url(#Rectangle_91)">
+      <rect id="Rectangle_91-2" data-name="Rectangle 91" width="475" height="150" rx="10" transform="translate(1235 507)" fill="#fff"/>
+    </g>
+    <g id="Group_1790-2" data-name="Group 1790" transform="translate(130 20)">
+      <text id="BEFORE" transform="translate(1234 7682)" fill="#19356f" font-size="30" font-family="CeraPro-Medium, Cera Pro" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="30">BEFORE</tspan></text>
+      <text id="AFTER" transform="translate(1524 7682)" fill="#19356f" font-size="30" font-family="CeraPro-Medium, Cera Pro" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="30">AFTER</tspan></text>
+      <rect id="Rectangle_92" data-name="Rectangle 92" width="100" height="32" rx="16" transform="translate(1386 7687)" fill="#e4e4e4"/>
+      <g id="Ellipse_75" data-name="Ellipse 75" transform="translate(1379 7679)" fill="#19356f" stroke="#707070" stroke-width="1">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="23.5" fill="none"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_76" data-name="Ellipse 76" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(226 7933)" fill="#94b3f8"/>
+    <ellipse id="Ellipse_78" data-name="Ellipse 78" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(786 8008)" fill="#94b3f8"/>
+    <ellipse id="Ellipse_80" data-name="Ellipse 80" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(1336 7927)" fill="#94b3f8"/>
+    <ellipse id="Ellipse_77" data-name="Ellipse 77" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(226 8125)" fill="#94b3f8"/>
+    <ellipse id="Ellipse_79" data-name="Ellipse 79" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(786 8200)" fill="#94b3f8"/>
+    <ellipse id="Ellipse_81" data-name="Ellipse 81" cx="41.5" cy="40.5" rx="41.5" ry="40.5" transform="translate(1336 8119)" fill="#94b3f8"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github.io/Opslyft/static/css/main.0c685807.chunk.css",
+    "main.js": "/github.io/Opslyft/static/js/main.12fb9552.chunk.js",
+    "main.js.map": "/github.io/Opslyft/static/js/main.12fb9552.chunk.js.map",
+    "runtime~main.js": "/github.io/Opslyft/static/js/runtime~main.774fe5ab.js",
+    "runtime~main.js.map": "/github.io/Opslyft/static/js/runtime~main.774fe5ab.js.map",
+    "static/js/2.1a7580af.chunk.js": "/github.io/Opslyft/static/js/2.1a7580af.chunk.js",
+    "static/js/2.1a7580af.chunk.js.map": "/github.io/Opslyft/static/js/2.1a7580af.chunk.js.map",
+    "index.html": "/github.io/Opslyft/index.html",
+    "precache-manifest.66182c54db72883df2b1173605ee99a6.js": "/github.io/Opslyft/precache-manifest.66182c54db72883df2b1173605ee99a6.js",
+    "service-worker.js": "/github.io/Opslyft/service-worker.js",
+    "static/css/main.0c685807.chunk.css.map": "/github.io/Opslyft/static/css/main.0c685807.chunk.css.map",
+    "static/media/Clients.svg": "/github.io/Opslyft/static/media/Clients.87e2ba55.svg",
+    "static/media/Component.svg": "/github.io/Opslyft/static/media/Component.58166129.svg",
+    "static/media/Group-1744.svg": "/github.io/Opslyft/static/media/Group-1744.28a773c3.svg",
+    "static/media/Group1749.svg": "/github.io/Opslyft/static/media/Group1749.ba93077a.svg",
+    "static/media/Group1774.svg": "/github.io/Opslyft/static/media/Group1774.06c119dc.svg",
+    "static/media/Group1778.svg": "/github.io/Opslyft/static/media/Group1778.c3aa1245.svg",
+    "static/media/Group1779.svg": "/github.io/Opslyft/static/media/Group1779.28b5913d.svg",
+    "static/media/Group1787.svg": "/github.io/Opslyft/static/media/Group1787.a3a41a0c.svg",
+    "static/media/Group395.svg": "/github.io/Opslyft/static/media/Group395.6415ffa0.svg",
+    "static/media/Path-838.svg": "/github.io/Opslyft/static/media/Path-838.4ae92a84.svg",
+    "static/media/abhinav.jpg": "/github.io/Opslyft/static/media/abhinav.e7c1d0f8.jpg",
+    "static/media/dash.png": "/github.io/Opslyft/static/media/dash.92b8e109.png",
+    "static/media/quote.svg": "/github.io/Opslyft/static/media/quote.32323c28.svg"
+  }
+}

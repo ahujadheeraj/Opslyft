@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="545.001" height="250" viewBox="0 0 545.001 250">
+  <defs>
+    <filter id="Ellipse_73" x="295.001" y="0" width="250" height="250" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#19356f"/>
+      <stop offset="1" stop-color="#0d1b38"/>
+    </linearGradient>
+    <filter id="Union_2" x="0" y="61" width="371.001" height="122.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1787" data-name="Group 1787" transform="translate(-1374.999 -848)">
+    <g transform="matrix(1, 0, 0, 1, 1375, 848)" filter="url(#Ellipse_73)">
+      <circle id="Ellipse_73-2" data-name="Ellipse 73" cx="50" cy="50" r="50" transform="translate(370 72)" fill="#19356f"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M-10822.666,45.615H-10854a7,7,0,0,1-7-7V7a7,7,0,0,1,7-7h32a7,7,0,0,1,7,7V50Z" transform="translate(12633 945)" fill="#fff"/>
+    <path id="Path_2274" data-name="Path 2274" d="M12640.543,974.08s14.6,10.262,28.417,0" transform="translate(-10860 3)" fill="none" stroke="#19356f" stroke-linecap="round" stroke-width="2"/>
+    <g id="Ellipse_74" data-name="Ellipse 74" transform="translate(1818 909)" stroke="#fff" stroke-width="4" fill="url(#linear-gradient)">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="14" fill="none"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(1830 915)" fill="#fff" font-size="15" font-family="CeraPro-Medium, Cera Pro" font-weight="500"><tspan x="0" y="15">2</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 1375, 848)" filter="url(#Union_2)">
+      <path id="Union_2-2" data-name="Union 2" d="M-10851,105a10,10,0,0,1-10-10V10a10,10,0,0,1,10-10h313a10,10,0,0,1,10,10V69.02l20,11.479-20,11.481V95a10,10,0,0,1-10,10Z" transform="translate(10870 67)" fill="#fff"/>
+    </g>
+    <text id="How_can_we_assist_you_" data-name="How can we assist you?" transform="translate(1422 945)" fill="#4a4a4a" font-size="20" font-family="CeraPro-Medium, Cera Pro" font-weight="500"><tspan x="0" y="20">How can we assist you?</tspan></text>
+    <g id="Group_1788" data-name="Group 1788" transform="translate(-4 10)">
+      <path id="Path_2275" data-name="Path 2275" d="M1685.433,929.028l12.6,12.6" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <path id="Path_2276" data-name="Path 2276" d="M1698.033,929.028l-12.6,12.6" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Group_1789" data-name="Group 1789" transform="translate(1259.874 -890.285) rotate(45)" opacity="0">
+      <path id="Path_2275-2" data-name="Path 2275" d="M1685.433,929.028l12.6,12.6" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <path id="Path_2276-2" data-name="Path 2276" d="M1698.033,929.028l-12.6,12.6" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="39" height="5" rx="2.5" transform="translate(1524 995)" fill="#19356f"/>
+  </g>
+</svg>
