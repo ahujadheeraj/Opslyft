@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Opslyft/static/css/main.0c685807.chunk.css",
+    "main.css": "/Opslyft/static/css/main.e800c009.chunk.css",
     "main.js": "/Opslyft/static/js/main.6ad0f8a7.chunk.js",
     "main.js.map": "/Opslyft/static/js/main.6ad0f8a7.chunk.js.map",
     "runtime~main.js": "/Opslyft/static/js/runtime~main.181718ea.js",
@@ -8,9 +8,9 @@
     "static/js/2.1a7580af.chunk.js": "/Opslyft/static/js/2.1a7580af.chunk.js",
     "static/js/2.1a7580af.chunk.js.map": "/Opslyft/static/js/2.1a7580af.chunk.js.map",
     "index.html": "/Opslyft/index.html",
-    "precache-manifest.759e2da8ccd649c17b0b37b1f381b36f.js": "/Opslyft/precache-manifest.759e2da8ccd649c17b0b37b1f381b36f.js",
+    "precache-manifest.f68d817fb940add7a83ef05f3ee9af63.js": "/Opslyft/precache-manifest.f68d817fb940add7a83ef05f3ee9af63.js",
     "service-worker.js": "/Opslyft/service-worker.js",
-    "static/css/main.0c685807.chunk.css.map": "/Opslyft/static/css/main.0c685807.chunk.css.map",
+    "static/css/main.e800c009.chunk.css.map": "/Opslyft/static/css/main.e800c009.chunk.css.map",
     "static/media/Clients.svg": "/Opslyft/static/media/Clients.87e2ba55.svg",
     "static/media/Component.svg": "/Opslyft/static/media/Component.58166129.svg",
     "static/media/Group-1744.svg": "/Opslyft/static/media/Group-1744.28a773c3.svg",
