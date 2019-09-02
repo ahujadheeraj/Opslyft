@@ -1,0 +1,171 @@
+@media (max-width:700px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+        background: black;
+        color:white;
+        padding-bottom: 100px;
+    }
+    
+    .first{
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: initial;
+        justify-content: space-evenly;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top:50px;
+        line-height: 30px;
+        padding-bottom:80px;
+    }
+    
+    .first ul{
+        list-style-type: none;
+        
+    }
+    
+    .firstone{
+        font-size:36px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+        padding-top:20px; 
+        padding-left: 40px;
+    }
+    
+    .firstsecond{
+        font-size:18px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+    }
+    
+    .firstthird{
+        font-size:18px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+    }
+    
+    .firstfour{
+        font-size:16px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+        line-height: 20px;
+        padding:0 40px;
+    }
+    
+    .firstfour input{
+        padding: 10px;
+        border-radius: 2px;
+        outline:none;
+        border:transparent;
+    }
+    
+    .firstfour input:nth-of-type(1){
+        width: 60%;
+        background: #3b3b3b;
+        color:white;
+        font-weight: 600;
+        font-family:"CeraPro-Bold, Cera Pro";
+        font-size: 15px;
+    }
+    
+    .firstfour input:nth-of-type(2){
+        width: 40%;
+        background:white;
+        font-weight: 600;
+        font-family:"CeraPro-Bold, Cera Pro";
+        font-size: 15px;
+    
+    
+    }
+}
+
+
+
+
+@media (min-width:700px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+        background: black;
+        color:white;
+        padding-bottom: 100px;
+    }
+    
+    .first{
+        margin: 0 80px;
+        display: flex;
+        flex-direction: row;
+        text-align: initial;
+        justify-content: space-evenly;
+        width: 80%;
+        box-sizing: border-box;
+        padding-top:120px;
+        line-height: 30px;
+        padding-bottom:80px;
+    }
+    
+    .first ul{
+        list-style-type: none;
+        
+    }
+    
+    .firstone{
+        width:23%;
+        font-size:30px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+        padding-top:20px; 
+    }
+    
+    .firstsecond{
+        width:23%;
+        font-size:18px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+    }
+    
+    .firstthird{
+        width:23%;
+        font-size:18px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+    }
+    
+    .firstfour{
+        width:30%;
+        font-size:16px;
+        font-family:"CeraPro-Medium, Cera Pro";
+        font-weight:500;
+        line-height: 20px;
+    }
+    
+    .firstfour input{
+        padding: 10px;
+        border-radius: 2px;
+        outline:none;
+        border:transparent;
+    }
+    
+    .firstfour input:nth-of-type(1){
+        width: 60%;
+        background: #3b3b3b;
+        color:white;
+        font-weight: 600;
+        font-family:"CeraPro-Bold, Cera Pro";
+        font-size: 15px;
+    }
+    
+    .firstfour input:nth-of-type(2){
+        width: 40%;
+        background:white;
+        font-weight: 600;
+        font-family:"CeraPro-Bold, Cera Pro";
+        font-size: 15px;
+    
+    
+    }
+
+}
+
+

@@ -1,47 +1,101 @@
-.m{
-    padding:100px 70px;
-    background: #e8e8e8;
-    margin:0 20px;
-
-}
-
-.metric{
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 70px;
+@media (max-width:700px){
+    .m{
+        background: #e8e8e8;
+        margin:0;
+        padding:0 10px 50px; 
     
+    }
+    
+    .metric{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+        justify-content: center;
+        
+    }
+    
+    .metric-left{
+        background:rgba(29, 4, 4, 0.863);
+        align-items: center;
+        box-sizing: border-box;
+        width: 100%;
+        box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
+    
+    
+    }
+    
+    .metric-right{
+        text-align: initial;
+        background: white;
+        width: 100%;
+        box-sizing: border-box;
+        margin-top: 0px;
+        font-family: Metropolis,sans-serif;
+        color: #0d2149;
+        font-size: 16px;
+        line-height: 30px;
+        padding :30px 30px 0px 30px;
+        box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
+    }
+    
+    
+    
+    .metric-right-content{
+        margin-top:18px;
+        line-height: 26px;
+        color: #0d2149;
+        padding:10px 50px 30px 50px;
+    }
+
 }
 
-.metric-left{
-    background:rgba(29, 4, 4, 0.863);
-    align-items: center;
-    text-align: initial;
-    box-sizing: border-box;
-    width: 50%;
-    box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
+@media (min-width:700px){
+    .m{
+        padding:100px 70px;
+        background: #e8e8e8;
+        margin:0 20px;
+    
+    }
+    
+    .metric{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 70px;
+        
+    }
+    
+    .metric-left{
+        background:rgba(29, 4, 4, 0.863);
+        align-items: center;
+        text-align: initial;
+        box-sizing: border-box;
+        width: 50%;
+        box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
+    
+    
+    }
+    
+    .metric-right{
+        text-align: initial;
+        background: white;
+        width: 50%;
+        box-sizing: border-box;
+        margin-top: 0px;
+        font-family: Metropolis,sans-serif;
+        color: #0d2149;
+        font-size: 16px;
+        line-height: 30px;
+        padding :30px 50px 0px 30px;
+        box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
+    }
+    
+    
+    
+    .metric-right-content{
+        margin-top:18px;
+        line-height: 26px;
+        color: #0d2149;
+        padding:10px 50px 30px 50px;
+    }
 
-
-}
-
-.metric-right{
-    text-align: initial;
-    background: white;
-    width: 50%;
-    box-sizing: border-box;
-    margin-top: 0px;
-    font-family: Metropolis,sans-serif;
-    color: #0d2149;
-    font-size: 16px;
-    line-height: 30px;
-    padding :30px 50px 0px 30px;
-    box-shadow: 0 0 20px 3px rgba(1, 2, 3, 0.109);
-}
-
-
-
-.metric-right-content{
-    margin-top:18px;
-    line-height: 26px;
-    color: #0d2149;
-    padding:10px 50px 30px 50px;
 }

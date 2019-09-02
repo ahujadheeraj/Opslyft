@@ -13,7 +13,7 @@ const header = ()=>(
         <div >
             <form className = "header-form">
                 <input type = "email" placeholder = "Enter Your Email Address" />
-                <button>Request a Demo</button>    
+                <button>Request Invite</button>    
             </form>
         </div> 
         <div className = "header-sub">

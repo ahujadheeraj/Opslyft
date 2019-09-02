@@ -5,7 +5,6 @@ import Profile from '../../assets/Group1779.svg'
 import Abhinav from '../../assets/abhinav.jpg'
 import Comp from '../../assets/Group1778.svg'
 
-
 const metric = (props) => (
     <div className = "m">
         <div className = "metric">
