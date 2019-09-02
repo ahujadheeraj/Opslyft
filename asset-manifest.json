@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/Opslyft/static/css/main.df5679ac.chunk.css",
-    "main.js": "/Opslyft/static/js/main.6ad0f8a7.chunk.js",
-    "main.js.map": "/Opslyft/static/js/main.6ad0f8a7.chunk.js.map",
+    "main.css": "/Opslyft/static/css/main.7c50484b.chunk.css",
+    "main.js": "/Opslyft/static/js/main.d5464991.chunk.js",
+    "main.js.map": "/Opslyft/static/js/main.d5464991.chunk.js.map",
     "runtime~main.js": "/Opslyft/static/js/runtime~main.181718ea.js",
     "runtime~main.js.map": "/Opslyft/static/js/runtime~main.181718ea.js.map",
-    "static/js/2.1a7580af.chunk.js": "/Opslyft/static/js/2.1a7580af.chunk.js",
-    "static/js/2.1a7580af.chunk.js.map": "/Opslyft/static/js/2.1a7580af.chunk.js.map",
+    "static/js/2.d4b75eda.chunk.js": "/Opslyft/static/js/2.d4b75eda.chunk.js",
+    "static/js/2.d4b75eda.chunk.js.map": "/Opslyft/static/js/2.d4b75eda.chunk.js.map",
     "index.html": "/Opslyft/index.html",
-    "precache-manifest.1dc8ae4001f86a237d52b541589bc92d.js": "/Opslyft/precache-manifest.1dc8ae4001f86a237d52b541589bc92d.js",
+    "precache-manifest.8a376d04549a346f69a1bcac6e1e3ae3.js": "/Opslyft/precache-manifest.8a376d04549a346f69a1bcac6e1e3ae3.js",
     "service-worker.js": "/Opslyft/service-worker.js",
-    "static/css/main.df5679ac.chunk.css.map": "/Opslyft/static/css/main.df5679ac.chunk.css.map",
+    "static/css/main.7c50484b.chunk.css.map": "/Opslyft/static/css/main.7c50484b.chunk.css.map",
     "static/media/Clients.svg": "/Opslyft/static/media/Clients.87e2ba55.svg",
     "static/media/Component.svg": "/Opslyft/static/media/Component.58166129.svg",
-    "static/media/Group-1744.svg": "/Opslyft/static/media/Group-1744.28a773c3.svg",
     "static/media/Group1749.svg": "/Opslyft/static/media/Group1749.ba93077a.svg",
-    "static/media/Group1774.svg": "/Opslyft/static/media/Group1774.06c119dc.svg",
     "static/media/Group1778.svg": "/Opslyft/static/media/Group1778.c3aa1245.svg",
     "static/media/Group1779.svg": "/Opslyft/static/media/Group1779.28b5913d.svg",
     "static/media/Group1787.svg": "/Opslyft/static/media/Group1787.a3a41a0c.svg",
@@ -23,6 +21,9 @@
     "static/media/Path-838.svg": "/Opslyft/static/media/Path-838.4ae92a84.svg",
     "static/media/abhinav.jpg": "/Opslyft/static/media/abhinav.e7c1d0f8.jpg",
     "static/media/dash.png": "/Opslyft/static/media/dash.92b8e109.png",
-    "static/media/quote.svg": "/Opslyft/static/media/quote.32323c28.svg"
+    "static/media/illustartion.svg": "/Opslyft/static/media/illustartion.c341dda5.svg",
+    "static/media/quote.svg": "/Opslyft/static/media/quote.32323c28.svg",
+    "static/media/sl3.PNG": "/Opslyft/static/media/sl3.726d9a68.PNG",
+    "static/media/sl6.PNG": "/Opslyft/static/media/sl6.bb21c478.PNG"
   }
 }

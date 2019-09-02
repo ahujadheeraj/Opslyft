@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9625ff787c07bc425d5fea8ef501157c",
+    "revision": "7698b586740306ea3c3ea7de4c333c9c",
     "url": "/Opslyft/index.html"
   },
   {
-    "revision": "d40f04d0a61bd264d2ad",
-    "url": "/Opslyft/static/css/main.df5679ac.chunk.css"
+    "revision": "39e3f95a59fbbc34f41a",
+    "url": "/Opslyft/static/css/main.7c50484b.chunk.css"
   },
   {
-    "revision": "f7a9c7f4510949b65c28",
-    "url": "/Opslyft/static/js/2.1a7580af.chunk.js"
+    "revision": "0772101e7e2e4871ba21",
+    "url": "/Opslyft/static/js/2.d4b75eda.chunk.js"
   },
   {
-    "revision": "d40f04d0a61bd264d2ad",
-    "url": "/Opslyft/static/js/main.6ad0f8a7.chunk.js"
+    "revision": "39e3f95a59fbbc34f41a",
+    "url": "/Opslyft/static/js/main.d5464991.chunk.js"
   },
   {
     "revision": "1dd3514965120a231d87",
@@ -28,16 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Opslyft/static/media/Component.58166129.svg"
   },
   {
-    "revision": "28a773c3acaa5c95b8043a407d136927",
-    "url": "/Opslyft/static/media/Group-1744.28a773c3.svg"
-  },
-  {
     "revision": "ba93077ae21d4efabe3bd26a62cc170b",
     "url": "/Opslyft/static/media/Group1749.ba93077a.svg"
-  },
-  {
-    "revision": "06c119dc3ceaf9ddab11611214c02c4f",
-    "url": "/Opslyft/static/media/Group1774.06c119dc.svg"
   },
   {
     "revision": "c3aa1245888a39e39e5bfc782e373553",
@@ -68,7 +60,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Opslyft/static/media/dash.92b8e109.png"
   },
   {
+    "revision": "c341dda54c58cf69e2f7b6089acb60d9",
+    "url": "/Opslyft/static/media/illustartion.c341dda5.svg"
+  },
+  {
     "revision": "32323c28eabdf01bb4f8a83baa9cdc6f",
     "url": "/Opslyft/static/media/quote.32323c28.svg"
+  },
+  {
+    "revision": "726d9a682621d26132a42a102336263a",
+    "url": "/Opslyft/static/media/sl3.726d9a68.PNG"
+  },
+  {
+    "revision": "bb21c47816d3180bb0ad621803c56eb3",
+    "url": "/Opslyft/static/media/sl6.bb21c478.PNG"
   }
 ]);
