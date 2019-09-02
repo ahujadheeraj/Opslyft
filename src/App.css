@@ -1,48 +1,4 @@
-@media(max-width:700px){
-  .Head img{
-    box-sizing: border-box;
-    width: 100%;
-    z-index: 0;
-    position: relative;
-    transform: scale(15);
-  }
-  .Laptop{
-    box-sizing: border-box;
-    position:relative;
-    transform: translate(-80px,-180px) scale(0.4);
-    z-index: 1;
-  }
-  .Leftline{
-    display: none;
-  }
 
-}
-
-
-@media (min-width:700px){
-  .Head img{
-    box-sizing: border-box;
-    width: 100%;
-    z-index: 0;
-    position: relative;
-    transform: scale(1.02);
-  }
-  .Laptop img{
-    width: 40%;
-    z-index: 1;
-    position: absolute;
-    top:35px;
-    right: 45px;
-  }
-  
-  .Leftline{
-    width: 11.97%;
-    position: absolute;
-    top:193px;
-  
-  }
-
-}
 
 .App {
   text-align: center;
