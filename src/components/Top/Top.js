@@ -11,8 +11,9 @@ const top = (props) => (
     <div className = "top">
         <div className = "nav">
             <ul>
-                <li><img src = {Brand} alt = "logo" /></li>
-                <li><img src =  {LiveDemo} alt = "logo" /></li>
+                
+                <li><a href = "/"><img src = {Brand} alt = "logo"></img></a></li>
+                <li><a href = "https://xd.adobe.com/view/f1a03b73-4295-4bc4-5e4c-5da9ede17e43-8791/screen/2fc9f87f-1243-4cfe-bf4c-7033607b2f27/Idle-Resource-management-EIP-5"><img src =  {LiveDemo} alt = "logo"></img></a></li>
             </ul>
 
         </div>
@@ -23,9 +24,7 @@ const top = (props) => (
         <div className = "Laptop">
             <img src = {Laptop} alt = "laptop"/>
          </div>
-        <div className = "Leftline">
-            <img src = {Leftline} alt = "line" />
-      </div>
+
     </div>
 )
 

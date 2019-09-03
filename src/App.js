@@ -1,31 +1,21 @@
 import React from 'react';
-import Top from './components/Top/Top'
-import Header from './components/Header/Header'
-import Client from './components/Clients/Clients'
-import Services from './components/Services/Services'
-import Process from './components/Process/Process'
-import Metric from './components/Metric/Metric'
-import Component from './components/Component/Component'
-import Footer from './components/Footer/Footer'
+import Home from './components/Home/Home'
 import Miniwaste from './components/Miniwaste/Miniwaste'
-import White from './components/White/White'
+
 import './App.css';
+import {BrowserRouter,Route} from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <Top/>
-      <Header />
-      <White/>
-      <Client/>
-      <Miniwaste />
-      <Services />
-      <Process/>
-      <Metric />
-      <Component />
-      <Footer />
+    <BrowserRouter>
+      <div className="App">
+
+    <Route exact path = "/" component = {Home} />
+    <Route exact path = "/home" component = {Miniwaste} />
 
       </div>
+    </BrowserRouter>
+    
 
       
       

@@ -1,12 +1,18 @@
 import React from 'react'
 import './Services.css'
-import dash from '../../assets/dash.png'
+import oneg from '../../assets/1.gif'
+import twog from '../../assets/2.gif'
+import threeg from '../../assets/3.gif'
+
+
 
 const billing = (props) => (
     <div>
+        <div className = "headline">Upgrade to beta Customers</div>
+
         <div className = "billing-container grey">
             <div className = "billing-left">
-                <img src  = {dash} alt  = "feature" />
+                <img src  = {oneg} alt  = "feature" />
 
             </div>
             <div className = "billing-right billing-cont">
@@ -37,14 +43,14 @@ const billing = (props) => (
                 </div> 
             </div>
             <div className = "billing-left">
-                <img src  = {dash} alt  = "feature" />
+                <img src  = {twog} alt  = "feature" />
 
             </div>
 
         </div>
         <div className = "billing-container grey">
             <div className = "billing-left">
-                <img src  = {dash} alt  = "feature" />
+                <img src  = {threeg} alt  = "feature" />
 
             </div>
             <div className = "billing-right billing-cont">

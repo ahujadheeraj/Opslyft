@@ -66,8 +66,17 @@
     .billing-container{
         display: flex;
         padding:100px 0;
-        margin:0 50px;
+        margin:0 ;
         justify-content: space-evenly;
+    }
+    .headline{
+        font-family:"CeraPro-Bold, Cera Pro";
+        color:#19356f;
+        font-size: 55px;
+        font-weight: 700;
+        background: #f8f8f8; 
+        padding-top:50px;
+
     }
     
 

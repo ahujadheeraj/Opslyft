@@ -1,6 +1,6 @@
 import React from 'react'
 import './Miniwaste.css'
-import waste  from '../../assets/sl3.PNG'
+import waste  from '../../assets/miniw.PNG'
 
 const miniwaste = (props) => (
     <div className = "mini">

@@ -89,7 +89,7 @@
         flex-direction: column;
         background: black;
         color:white;
-        padding-bottom: 100px;
+        padding-bottom: 10px;
     }
     
     .first{
@@ -100,9 +100,9 @@
         justify-content: space-evenly;
         width: 80%;
         box-sizing: border-box;
-        padding-top:120px;
+        padding-top:60px;
         line-height: 30px;
-        padding-bottom:80px;
+        padding-bottom:40px;
     }
     
     .first ul{

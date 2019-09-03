@@ -40,10 +40,11 @@
         box-sizing: border-box;
         margin:0;
         display: flex;
-        transform: translate(-220px,00px) scale(0.7);
+        transform: translate(0px,-110px)scale(0.9);
         padding-left: 0;
-        justify-content: space-between;
+        justify-content: space-evenly;
         position: relative;
+        z-index: 3;
     }
     
     .client div{
@@ -59,15 +60,16 @@
         box-sizing: border-box;
     }
     
-    .client div:nth-of-type(1){
-        padding-right:150px; 
-    }
+
     
-    .client div:nth-of-type(3){
-        padding-left:100px;
-        transform: translateY(-90px) scale(0.9);
+    .client div:nth-of-type(2){
+        padding-left:90px;
+        transform: translateY(-25px) scale(0.8);
+        padding-top: 0;
     
     }
+
+
     
 
 }

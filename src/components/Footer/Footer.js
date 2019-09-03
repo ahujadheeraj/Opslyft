@@ -12,7 +12,7 @@ const footer = (props) =>(
                 <ul>
                     <li>ABOUT US</li>
                     <li>CONTACT US</li>
-                    <li>AFFILIATES</li>
+                
                 </ul>
 
 
@@ -20,7 +20,6 @@ const footer = (props) =>(
             <div className = "firstthird">
                 <ul> 
                     <li>PRODUCT</li>
-                     <li>BLOG</li>
                 </ul>
    
             </div>
@@ -36,11 +35,6 @@ const footer = (props) =>(
                 
 
             </div>
-        </div>
-        <hr style = {{width:"80%",background:"black"}} />
-        <div className = "second">
-
-
         </div>
 
     </div>

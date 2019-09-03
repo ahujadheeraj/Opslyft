@@ -1,16 +1,13 @@
 import React from 'react';
 import './Clients.css'
-import clients from '../../assets/Clients.svg'
-import line from '../../assets/Group1749.svg'
-import mess from '../../assets/Group1787.svg'
+import clients from '../../assets/client.PNG'
+import mess from '../../assets/mes.PNG'
 
 
 const client = () => (
 
         <div className = "client">
-            <div>
-            <img src = {line} alt = "line"  />
-            </div>
+
             <div>
             <img src = {clients} alt = "client"/>
             </div>

@@ -12,9 +12,7 @@
       transform: translate(-80px,-180px) scale(0.4);
       z-index: 1;
     }
-    .Leftline{
-      display: none;
-    }
+
     .nav ul{
         z-index: 2;
         position: absolute;
@@ -47,13 +45,7 @@
       top:35px;
       right: 45px;
     }
-    
-    .Leftline{
-      width: 11.97%;
-      position: absolute;
-      top:193px;
-    
-    }
+
 
     .nav ul{
         z-index: 2;
@@ -62,7 +54,7 @@
         top:0;
         list-style-type: none;
         display:flex;
-        width: 60%;
+        width: 64%;
         justify-content:space-between;
     }
     .nav img{

@@ -94,7 +94,7 @@
         width:47%;
         box-sizing: border-box;
         position: absolute;
-        top:200px;
+        top:150px;
     
     }
     
@@ -117,7 +117,7 @@
     }
     
     .header-form{
-        padding: 70px 0px 0px 60px;
+        padding: 40px 0px 0px 56px;
         display: flex;
         flex-direction:column;
         margin:0;
@@ -159,7 +159,7 @@
         font-family:"CeraPro-Medium, Cera Pro";
         font-size: 17px;
         transform: translateY(-27px);
-        padding-left: 70px;
+        padding-left: 60px;
     
     }
     .header-sub button{

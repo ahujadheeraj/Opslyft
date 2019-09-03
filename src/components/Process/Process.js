@@ -1,5 +1,5 @@
 import React from 'react'
-import Proces from '../../assets/sl6.PNG'
+import Proces from '../../assets/moni.PNG'
 import './Process.css'
 
 const process = (props) => (
